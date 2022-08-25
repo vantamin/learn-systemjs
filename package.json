@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vantamin/learn-systemjs/issues"
   },
-  "homepage": "https://github.com/vantamin/learn-systemjs#readme"
+  "homepage": "https://github.com/vantamin/learn-systemjs#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
 }
